@@ -1,0 +1,4 @@
+break *0x40095d
+break *casino+99
+break *casino+340
+
